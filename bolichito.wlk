@@ -29,3 +29,5 @@ object bolichito {
         return unaPersona.leGusta(objetoMostrador) || unaPersona.leGusta(objetoVidriera)
     }
 }
+
+
